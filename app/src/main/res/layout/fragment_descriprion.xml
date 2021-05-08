@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragmentDescription"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_height="match_parent"
+        android:layout_width="match_parent">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/card"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="50dp"
+        app:cardCornerRadius="0dp"
+        app:cardElevation="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/descImageView"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/desc_image"
+            android:contentDescription="@string/movie_cover"
+            android:scaleType="centerCrop"
+            tools:src="@drawable/big_eyes" />
+
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:id="@+id/descTitleTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Gone Girl"
+        android:textStyle="italic"
+        android:textAllCaps="true"
+        android:layout_marginTop="@dimen/margin_sixteen"
+        android:layout_marginStart="@dimen/eight"
+        android:paddingBottom="@dimen/margin_desc"
+        android:textSize="30sp"
+        app:layout_constraintTop_toBottomOf="@id/card"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <TextView
+        android:id="@+id/releaseDateTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="@string/release_date_textView"
+        android:layout_marginStart="@dimen/eight"
+        app:layout_constraintTop_toBottomOf="@id/descTitleTextView"
+        app:layout_constraintBottom_toTopOf="@id/descGenreTextView"/>
+
+    <TextView
+        android:id="@+id/descGenreTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/eight"
+        android:textSize="@dimen/year_text_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toBottomOf="@id/star"
+        app:layout_constraintTop_toBottomOf="@+id/releaseDateTextView"
+        tools:text="Drama" />
+
+    <TextView
+        android:id="@+id/descRatingTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/eight"
+        android:gravity="bottom"
+        android:paddingStart="@dimen/eight"
+        android:paddingEnd="@dimen/eight"
+        android:textSize="@dimen/year_text_size"
+        app:layout_constraintBottom_toBottomOf="@id/star"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/releaseDateTextView"
+        app:layout_constraintTop_toTopOf="@id/star"
+        tools:text="7.2" />
+
+    <ImageView
+        android:id="@+id/star"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:src="@drawable/ic_baseline_star_24"
+        app:layout_constraintBottom_toBottomOf="@id/descRatingTextView"
+        app:layout_constraintEnd_toStartOf="@+id/descRatingTextView"
+        app:layout_constraintTop_toBottomOf="@+id/releaseDateTextView"
+        android:contentDescription="@string/favorite" />
+
+    <TextView
+        android:id="@+id/descDescTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/star"
+        android:layout_marginTop="@dimen/margin_desc"
+        android:textAlignment="textStart"
+        android:layout_marginStart="@dimen/eight"
+        android:layout_marginEnd="@dimen/eight"
+        android:lineSpacingExtra="@dimen/four"
+        android:textSize="@dimen/desc_text_size"
+        tools:text="A young woman, traumatized by a tragic event in her past, seeks out vengeance against those who crossed her path."/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.core.widget.NestedScrollView>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="search">Search</string>
+    <string name="movie_cover">Movie Cover</string>
+    <string name="favorite">Favorite</string>
+    <string name="release_date_textView">Release date 15–03-2021</string>
+    <string name="error">App error!</string>
+    <string name="release_date">Release date </string>
+</resources>
