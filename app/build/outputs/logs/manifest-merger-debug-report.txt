@@ -1,0 +1,199 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.databinding:viewbinding:4.2.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/2d53c4efa102932724d4ecdca006e1b0/jetified-viewbinding-4.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/b9780d8dcf40f73f65f2b51723e7fb2b/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/bedde1b53238bba22e3c6d23edd78d8b/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/75a3b0da8829e6e5bbaa2f86d44023a8/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/1fd23fe16b2461351725ad329ed8c6fe/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/032519e23b6f02933a21086b3e93d261/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/0d1951b967be344ab8bf55be05d19853/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/f676b8492ca5fd99932a606978153f03/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/edb7ab7a92bb5c5c2e4f5bdc1774f098/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/ddee079dd0a8df8d1449f1d6b97ffcea/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/5b2771cedf93724a4eae1c178b63ccfe/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/b440e5cb70db9dc15946023156d8dae7/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/ba6051da294ef2106f6d1a2a21b2b3b2/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/de7ef027d2922c7c5ebd78b16f93e58e/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/73e4f84aa138c31e33cf10c81ff4a01c/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/aea5ef2c16989f8a6b7cc3c2a0a739d8/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/92cde79ab64b9012d687b31cbbaa1a9d/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/2af0ef9cb05182212f5e1cda313dadd5/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/3420688e25a092ca731b1f303f9abec5/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/8191d8cc285be917a4a0021ef8935334/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/5cf20c5b93871ed496cde2e8e2c0c4ca/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/6dc3043c853f664a9f19f776aa8b7a2d/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/755949d23a2348323aedbe74e549ba32/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/a9c6a55cc251760197a2b4a79cd5aacb/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/36260564ffb9501ae779aae20012bead/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/1e42b7324cd35d4cb054f4467919ad66/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/2c0d1fd0316933e654242e92ac52220e/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/0e59e537a93d33c50f549b88bea01d91/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/5a3b16df7e911a69297bc41c4d0ed816/lifecycle-livedata-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/ba8fe3a907e4dfcfceaea0cc950cd666/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/5e7ce506b449ebe9aa8de006370fd00b/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/62eb314da49a53b096dee8c77225563e/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/a98dcde332d9a2a3572e0de6c8e089dd/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/8dca89ef736d1d59cfdd16cf5dce6164/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/69b4988bf69e186e5a7d1ed4e24a5229/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/28c16778b91d5e99d80fc4de9beaacbc/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/5722f9880e2690c86ce041177be9f8f6/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/ed7bd8d5e854a70f6bc549f6fe8060b2/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.google.android.material:material:1.3.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/032519e23b6f02933a21086b3e93d261/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/032519e23b6f02933a21086b3e93d261/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/0d1951b967be344ab8bf55be05d19853/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/0d1951b967be344ab8bf55be05d19853/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/a9c6a55cc251760197a2b4a79cd5aacb/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/a9c6a55cc251760197a2b4a79cd5aacb/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/0e59e537a93d33c50f549b88bea01d91/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/0e59e537a93d33c50f549b88bea01d91/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/a9c6a55cc251760197a2b4a79cd5aacb/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:9:9-38
+	android:allowBackup
+		ADDED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:13:9-52
+activity#com.mirjanakopanja.movieapp.ui.SplashActivity
+ADDED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:14:9-21:20
+	android:theme
+		ADDED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:15:13-47
+	android:name
+		ADDED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:14:19-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.mirjanakopanja.movieapp.MainActivity
+ADDED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:22:9-23:20
+	android:name
+		ADDED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml:22:19-47
+uses-sdk
+INJECTED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:4.2.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/2d53c4efa102932724d4ecdca006e1b0/jetified-viewbinding-4.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/2d53c4efa102932724d4ecdca006e1b0/jetified-viewbinding-4.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/b9780d8dcf40f73f65f2b51723e7fb2b/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/b9780d8dcf40f73f65f2b51723e7fb2b/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/bedde1b53238bba22e3c6d23edd78d8b/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/bedde1b53238bba22e3c6d23edd78d8b/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/75a3b0da8829e6e5bbaa2f86d44023a8/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/75a3b0da8829e6e5bbaa2f86d44023a8/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/1fd23fe16b2461351725ad329ed8c6fe/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/1fd23fe16b2461351725ad329ed8c6fe/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/032519e23b6f02933a21086b3e93d261/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/032519e23b6f02933a21086b3e93d261/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/0d1951b967be344ab8bf55be05d19853/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/0d1951b967be344ab8bf55be05d19853/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/f676b8492ca5fd99932a606978153f03/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/f676b8492ca5fd99932a606978153f03/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/edb7ab7a92bb5c5c2e4f5bdc1774f098/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/edb7ab7a92bb5c5c2e4f5bdc1774f098/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/ddee079dd0a8df8d1449f1d6b97ffcea/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/ddee079dd0a8df8d1449f1d6b97ffcea/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/5b2771cedf93724a4eae1c178b63ccfe/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/5b2771cedf93724a4eae1c178b63ccfe/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/b440e5cb70db9dc15946023156d8dae7/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/b440e5cb70db9dc15946023156d8dae7/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/ba6051da294ef2106f6d1a2a21b2b3b2/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/ba6051da294ef2106f6d1a2a21b2b3b2/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/de7ef027d2922c7c5ebd78b16f93e58e/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/de7ef027d2922c7c5ebd78b16f93e58e/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/73e4f84aa138c31e33cf10c81ff4a01c/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/73e4f84aa138c31e33cf10c81ff4a01c/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/aea5ef2c16989f8a6b7cc3c2a0a739d8/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/aea5ef2c16989f8a6b7cc3c2a0a739d8/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/92cde79ab64b9012d687b31cbbaa1a9d/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/92cde79ab64b9012d687b31cbbaa1a9d/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/2af0ef9cb05182212f5e1cda313dadd5/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/2af0ef9cb05182212f5e1cda313dadd5/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/3420688e25a092ca731b1f303f9abec5/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/3420688e25a092ca731b1f303f9abec5/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/8191d8cc285be917a4a0021ef8935334/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/8191d8cc285be917a4a0021ef8935334/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/5cf20c5b93871ed496cde2e8e2c0c4ca/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/5cf20c5b93871ed496cde2e8e2c0c4ca/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/6dc3043c853f664a9f19f776aa8b7a2d/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/6dc3043c853f664a9f19f776aa8b7a2d/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/755949d23a2348323aedbe74e549ba32/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/755949d23a2348323aedbe74e549ba32/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/a9c6a55cc251760197a2b4a79cd5aacb/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/a9c6a55cc251760197a2b4a79cd5aacb/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/36260564ffb9501ae779aae20012bead/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/36260564ffb9501ae779aae20012bead/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/1e42b7324cd35d4cb054f4467919ad66/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/1e42b7324cd35d4cb054f4467919ad66/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/2c0d1fd0316933e654242e92ac52220e/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/2c0d1fd0316933e654242e92ac52220e/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/0e59e537a93d33c50f549b88bea01d91/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/0e59e537a93d33c50f549b88bea01d91/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/5a3b16df7e911a69297bc41c4d0ed816/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/5a3b16df7e911a69297bc41c4d0ed816/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/ba8fe3a907e4dfcfceaea0cc950cd666/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/ba8fe3a907e4dfcfceaea0cc950cd666/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/5e7ce506b449ebe9aa8de006370fd00b/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/5e7ce506b449ebe9aa8de006370fd00b/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/62eb314da49a53b096dee8c77225563e/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/62eb314da49a53b096dee8c77225563e/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/a98dcde332d9a2a3572e0de6c8e089dd/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/a98dcde332d9a2a3572e0de6c8e089dd/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/8dca89ef736d1d59cfdd16cf5dce6164/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/8dca89ef736d1d59cfdd16cf5dce6164/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/69b4988bf69e186e5a7d1ed4e24a5229/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/69b4988bf69e186e5a7d1ed4e24a5229/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/28c16778b91d5e99d80fc4de9beaacbc/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/28c16778b91d5e99d80fc4de9beaacbc/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/5722f9880e2690c86ce041177be9f8f6/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/5722f9880e2690c86ce041177be9f8f6/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/ed7bd8d5e854a70f6bc549f6fe8060b2/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/romanimima/.gradle/caches/transforms-2/files-2.1/ed7bd8d5e854a70f6bc549f6fe8060b2/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/romanimima/Desktop/MovieApp/app/src/main/AndroidManifest.xml

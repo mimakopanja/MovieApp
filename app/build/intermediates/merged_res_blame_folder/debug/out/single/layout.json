@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/romanimima/Desktop/MovieApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/main_activity.xml",
+        "source": "/Users/romanimima/Desktop/MovieApp/app/src/main/res/layout/main_activity.xml"
+    },
+    {
+        "merged": "/Users/romanimima/Desktop/MovieApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/main_fragment.xml",
+        "source": "/Users/romanimima/Desktop/MovieApp/app/src/main/res/layout/main_fragment.xml"
+    },
+    {
+        "merged": "/Users/romanimima/Desktop/MovieApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_descriprion.xml",
+        "source": "/Users/romanimima/Desktop/MovieApp/app/src/main/res/layout/fragment_descriprion.xml"
+    },
+    {
+        "merged": "/Users/romanimima/Desktop/MovieApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/movie_item.xml",
+        "source": "/Users/romanimima/Desktop/MovieApp/app/src/main/res/layout/movie_item.xml"
+    },
+    {
+        "merged": "/Users/romanimima/Desktop/MovieApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/app_bar_main.xml",
+        "source": "/Users/romanimima/Desktop/MovieApp/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/Users/romanimima/Desktop/MovieApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_main.xml",
+        "source": "/Users/romanimima/Desktop/MovieApp/app/src/main/res/layout/content_main.xml"
+    }
+]

@@ -1,0 +1,14 @@
+com/mirjanakopanja/movieapp/databinding/ContentMainBinding.java
+ com.mirjanakopanja.movieapp.databinding.ContentMainBinding
+com/mirjanakopanja/movieapp/databinding/MainActivityBinding.java
+ com.mirjanakopanja.movieapp.databinding.MainActivityBinding
+com/mirjanakopanja/movieapp/databinding/MainFragmentBinding.java
+ com.mirjanakopanja.movieapp.databinding.MainFragmentBinding
+com/mirjanakopanja/movieapp/databinding/AppBarMainBinding.java
+ com.mirjanakopanja.movieapp.databinding.AppBarMainBinding
+com/mirjanakopanja/movieapp/databinding/MovieItemBinding.java
+ com.mirjanakopanja.movieapp.databinding.MovieItemBinding
+com/mirjanakopanja/movieapp/BuildConfig.java
+ com.mirjanakopanja.movieapp.BuildConfig
+com/mirjanakopanja/movieapp/databinding/FragmentDescriprionBinding.java
+ com.mirjanakopanja.movieapp.databinding.FragmentDescriprionBinding

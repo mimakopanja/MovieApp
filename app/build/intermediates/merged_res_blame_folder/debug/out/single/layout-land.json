@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/romanimima/Desktop/MovieApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout-land/main_fragment.xml",
+        "source": "/Users/romanimima/Desktop/MovieApp/app/src/main/res/layout-land/main_fragment.xml"
+    },
+    {
+        "merged": "/Users/romanimima/Desktop/MovieApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout-land/fragment_descriprion.xml",
+        "source": "/Users/romanimima/Desktop/MovieApp/app/src/main/res/layout-land/fragment_descriprion.xml"
+    }
+]
