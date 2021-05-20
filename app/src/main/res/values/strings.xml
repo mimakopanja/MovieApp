@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="search">Search</string>
+    <string name="movie_cover">Movie Cover</string>
+    <string name="favorite">Favorite</string>
+    <string name="release_date_textView">Release date 15–03-2021</string>
+    <string name="error">App error!</string>
+    <string name="release_date">Release date </string>
+    <string name="reload">Reload</string>
+    <string name="tagline">She created it. He sold it. And they bought it.</string>
+    <string name="splash_title">The Movie Database</string>
+    <string name="splash_subtitle">GeekBrains</string>
+</resources>
