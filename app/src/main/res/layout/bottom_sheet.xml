@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/bottomsheet"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:layout_behavior="@string/bottom_sheet_behavior"
+    app:behavior_peekHeight="0sp"
+    app:behavior_hideable="true"
+    android:background="#00000000"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/about_this_app"
+        android:layout_gravity="center"
+        android:textSize="@dimen/desc_text_size"
+        android:layout_marginStart="@dimen/margin_eight"
+        android:layout_marginTop="@dimen/margin_desc"/>
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_sixteen"
+        android:layout_marginStart="@dimen/margin_eight"
+        android:text="@string/about_text"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_desc"
+        android:layout_gravity="center"
+        android:text="@string/contact_me"/>
+
+</LinearLayout>
