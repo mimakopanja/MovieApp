@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="movie_array">
+        <item>Promising Young Women</item>
+        <item>All the Money in the World</item>
+        <item>The Danish Girl</item>
+        <item>Gone Girl</item>
+        <item>Big Eyes</item>
+        <item>Stoker</item>
+        <item>I Care a Lot</item>
+        <item>The Dig</item>
+    </string-array>
+
+    <integer-array name="movie_years">
+        <item>2020</item>
+        <item>2017</item>
+        <item>2015</item>
+        <item>2014</item>
+        <item>2014</item>
+        <item>2013</item>
+        <item>2020</item>
+        <item>2021</item>
+    </integer-array>
+
+</resources>
