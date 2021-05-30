@@ -66,21 +66,6 @@ class MainFragment : Fragment() {
 
         viewModel.getLiveData().observe(viewLifecycleOwner, { processData(it)})
         viewModel.getMovieFromRemoteSource(isAdult)
-
-/*        val moviesApi = MoviesAPI.create().getPopularMovies()
-        moviesApi.enqueue(object : Callback<MovieClass> {
-            override fun onResponse(call: Call<MovieClass>, response: Response<MovieClass>) {
-                if (response.body() != null){
-                    adapter.setMovieListItems(response.body()!!)
-                }
-            }
-
-            override fun onFailure(call: Call<MovieClass>, t: Throwable) {
-            }
-
-        })*/
-
-
     }
 
     private fun processData(applicationState: ApplicationState?) {
