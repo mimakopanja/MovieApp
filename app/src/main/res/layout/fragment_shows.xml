@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:theme="@style/AppTheme"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="@dimen/margin_sixteen"
+        android:src="@drawable/ic_logo"
+        android:scaleType="fitCenter"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <View
+        android:id="@+id/line"
+        android:layout_marginTop="@dimen/margin_sixteen"
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"
+        android:background="@android:color/darker_gray"
+        app:layout_constraintTop_toBottomOf="@id/logo"/>
+
+    <LinearLayout
+        android:id="@+id/shows_liner_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/line">
+
+
+    <TextView
+        android:id="@+id/textPopularShows"
+        style="@style/TextAppearance.MaterialComponents.Overline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/popularShows"
+        android:layout_marginBottom="@dimen/margin_eight"
+        android:layout_marginStart="@dimen/margin_sixteen"
+        android:textSize="@dimen/desc_text_size"
+        android:layout_marginTop="@dimen/six"
+        tools:ignore="SpUsage" />
+
+<androidx.core.widget.NestedScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerShows"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:spanCount="3"
+        android:clipToPadding="false"
+        app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textPopularShows"
+        tools:listitem="@layout/movie_item_search" />
+
+    </androidx.core.widget.NestedScrollView>
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/shows_loading_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        tools:visibility="visible">
+
+
+        <ProgressBar
+            style="?android:attr/progressBarStyleHorizontal"
+            android:indeterminateTint="@color/yellow_status"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:indeterminateOnly="true"
+            android:layout_marginEnd="50dp"
+            android:layout_marginStart="50dp"
+            android:layout_gravity="center"
+            android:indeterminate="true"/>
+
+    </FrameLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
