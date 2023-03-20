@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/selector_home"
+        android:title="@string/home"/>
+
+    <item
+        android:id="@+id/navigation_map"
+        android:icon="@drawable/selector_map"
+        android:title="@string/maps" />
+
+    <item
+        android:id="@+id/navigationSearch"
+        android:icon="@drawable/selector_search"
+        android:title="@string/search"/>
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/selector_settings"
+        android:title="@string/settings" />
+
+</menu>
