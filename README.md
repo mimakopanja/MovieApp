@@ -1,7 +1,14 @@
 # _Movie App_
 
+🎥 A simple app for browse movies and TV shows using TMDB API
 
-![](https://i.ibb.co/Xt5DvYW/Screenshot-20210604-170056.png) ![](https://i.ibb.co/SJwcRJc/Screenshot-20210604-170104.png) 
-![](https://i.ibb.co/71CVMyR/Screenshot-20210604-170114.png) ![](https://i.ibb.co/myjDkg9/Screenshot-20210604-170344.png)
-![](https://i.ibb.co/3mYbQQn/Screenshot-20210604-170259.png) ![](https://i.ibb.co/nLWjf6H/Screenshot-20210604-170143.png)
-![](https://i.ibb.co/YbZb7D7/Screenshot-20210604-170219.png)
+## Features ⚙️
+- Explore Popular, Upcomin, Top Rated movies and TV Shows.
+- Read description and details about the movie.
+- Get movie's Cast and Crew.
+- Watch movie trailer.
+- Search for movies and tv shows.
+
+## Screenshots📱
+![light_screenshot](Assets/Screen-1.png)
+![light_screenshot](Assets/Screen-2.png)
